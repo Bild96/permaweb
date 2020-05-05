@@ -5,7 +5,7 @@ Digital marketplace for crypto collectibles and non-fungible tokens NFT's
 
 
 https://ewvcfcl6zslu.arweave.net/4ERtwcCAw_T2RvKLhEna61SymzQL2skFBUCjw0zar18
-
+https://github.com/ArweaveTeam/Bounties/issues/1
 
 Status: 200 Accepted 🚀
 
