@@ -20,7 +20,6 @@ Block explorer URL: https://viewblock.io/arweave/block/437154
 
 * Arweave Deploy :
 
-Build
 Build for local Node.js
 This will build to run on your locally installed Node.js using #!/usr/bin/env node.
 
