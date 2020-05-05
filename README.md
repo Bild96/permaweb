@@ -2,7 +2,10 @@
 Deploying a decentralised, immutable web built on top of the Arweave.using normal web technologies. HTML, CSS, and Javascript. The same file will be deploy in IPFS a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 
 Digital marketplace for crypto collectibles and non-fungible tokens NFT's
-Trasaction ID: 4ERtwcCAw_T2RvKLhEna61SymzQL2skFBUCjw0zar18
+
+
+https://ewvcfcl6zslu.arweave.net/4ERtwcCAw_T2RvKLhEna61SymzQL2skFBUCjw0zar18
+
 
 Status: 200 Accepted 🚀
 
